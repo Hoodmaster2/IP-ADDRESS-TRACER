@@ -7,22 +7,22 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 <img width="40%" src="src/Screenshot_2020-05-17-20-52-59-1.png"/>
 </p>
 
-## How to install IP-Tracer ?
+## How to install IP-ADDRESS-TRACER?
 
 * `apt update`
 
 * `apt install git -y`
 
-* `git clone https://github.com/rajkumardusad/IP-Tracer.git`
+* `git clone https://github.com/Hoodmaster2/IP-ADDRESS-TRACER.git`
 
-* `cd IP-Tracer`
+* `cd IP-ADDRESS-TRACER`
 
 * `chmod +x install`
 
 * `sh install` or `./install`
 
 
-## How to use IP-Tracer
+## How to use IP-ADDRESS-TRACER
 
 * `trace -m` to track your own ip address.
 
